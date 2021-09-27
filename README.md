@@ -68,8 +68,8 @@ Para usar uma cópia local e ver o funcionamento siga estas etapas abaixo.
 
 <!-- DOCUMENTATION EXAMPLES -->
 ## Acessando a Documentação (Swagger)
-  **Built Local** - Para acessar a documentação **Localmente** basta acessar as url abaixo.
-1. Interest Return API
+  **Built Local** - Acesse os links abaixo para acessar a documentação **Uso local**
+1. Interest Return API 
    ```sh
    http://localhost:5001/swagger
    ```
