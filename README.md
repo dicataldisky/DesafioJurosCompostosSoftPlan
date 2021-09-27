@@ -25,7 +25,7 @@
     </ul>
 </li>
 <ul>
-    <li><a href="#Acessando-a-Documentação-(Swagger)">Acessando a documentação (Swagger)</a></li>
+    <li><a href="#Acessando a Documentação">Acessando a documentação - Swagger</a></li>
     <li><a href="#Testes-Unitários">Realizando testes unitários</a></li>
 </ul>
 </ol>
@@ -67,7 +67,7 @@ Para usar uma cópia local e ver o funcionamento siga estas etapas abaixo.
 <!--
 
 <!-- DOCUMENTATION EXAMPLES -->
-## Acessando a Documentação (Swagger)
+## Acessando a Documentação
   **Built Local** - Acesse os links abaixo para acessar a documentação **Uso local**
 1. Interest Return API 
    ```sh
