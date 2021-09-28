@@ -33,8 +33,8 @@
 
 
 <!-- GETTING STARTED -->
-## Inicio
-O desafio consiste basicamente em desenvolver 2 API's para realização de cálculos de juros compostos, sendo a primeira API retornando única e exclusivamente o valor do juros fixo de 0.01 enquanto a segunda API realiza de fato o cálculo do juros compostos consumindo o juros pré definido na API 1.
+## Início
+O desafio consiste basicamente em desenvolver duas API's para realização de cálculos de juros compostos, sendo a primeira API retornando única e exclusivamente o valor dos juros fixos de 0,01, enquanto a segunda API realiza de fato os cálculos dos juros compostos, consumindo os juros pré definidos na API um.
 
 ### Instalação
 Para usar uma cópia local e ver o funcionamento siga estas etapas abaixo.
@@ -53,12 +53,12 @@ Para usar uma cópia local e ver o funcionamento siga estas etapas abaixo.
 
 <!-- USAGE EXAMPLES -->
 ## Uso
-  **Docker** - Este projeto utiliza Docker. A documentação do docker está disponível em <a href="https://docs.docker.com/">https://docs.docker.com/</a>
-1. No diretório raiz inicie a API 1
+   Este projeto utiliza **Docker**. A documentação está disponível em <a href="https://docs.docker.com/">https://docs.docker.com/</a>
+1. No diretório raiz inicie a primeira API
    ```sh
    dotnet run --project InterestReturnApi
    ```
-2. No diretório raiz inicie a API 1
+2. No diretório raiz inicie a segunda API
    ```sh
    dotnet run --project InterestCalcApi
    ```
@@ -68,7 +68,7 @@ Para usar uma cópia local e ver o funcionamento siga estas etapas abaixo.
 
 <!-- DOCUMENTATION EXAMPLES -->
 ## Acessando a Documentação
-  **Built Local** - Acesse os links abaixo para acessar a documentação **Uso local**
+  Acesse os links abaixo para acessar a documentação
 1. Interest Return API 
    ```sh
    http://localhost:5001/swagger
@@ -82,7 +82,7 @@ Para usar uma cópia local e ver o funcionamento siga estas etapas abaixo.
 
 <!-- TEST EXAMPLES -->
 ## Testes Unitários
-1. Para executar os testes basta na raiz do projeto executar:
+1. Para rodar os testes execute o comando abaixo
    ```sh
    dotnet test
    ```
